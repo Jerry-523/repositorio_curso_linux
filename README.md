@@ -1,1 +1,6 @@
-# repositorio_curso_linux
+# Relatorio do Laboratorio
+---
+
+
+# Perguntas de Reflexao
+
