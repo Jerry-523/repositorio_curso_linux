@@ -18,3 +18,8 @@ Usei o comando `sudo ufw status` para fazer a verificacao do estado da firewall
 <img width="648" height="328" alt="image" src="https://github.com/user-attachments/assets/aadfead8-52b1-474c-b68a-f7e3778fd4bc" />
 
 Usei configuracao padrao de seguranca bloqueando por padrao as requisicoes de entradas e permitindo apenas as requisicoes de saida
+
+---
+
+### Criterio 2
+<img width="855" height="866" alt="image" src="https://github.com/user-attachments/assets/e76b6ec4-ce46-4919-95a0-961b12e1bb01" />
