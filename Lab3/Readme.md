@@ -10,6 +10,21 @@
 Usei o comando `sudo ufw status` para fazer a verificacao do estado da firewall
 
 ---
+**Exercicio 1** Verificar o `status` atual do UFW:
+
+Bash```
+root@ubuntu:~$ ufw status
+Status: inactive
+root@ubuntu:~$ ufw enable
+Firewall is active and enabled on system startup
+root@ubuntu:~$ ufw status
+Status: active
+root@ubuntu:~$ 
+```
+
+Usei o comando `sudo ufw status` para fazer a verificacao do estado da firewall
+
+---
 
 ### Passo 2
 
